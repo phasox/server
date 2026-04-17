@@ -18,7 +18,7 @@
 | 5    | Minefort        | https://minefort.com        | 1GB   | ~93%   | unlimited  | ~20          | ✔     | stable           |
 | 6    | EnderNodes      | https://endernodes.com      | 2GB   | ~93%   | unlimited  | ~20          | ✔     | low ads          |
 | 7    | Minehut         | https://minehut.com         | 1GB   | ~94%   | unlimited  | 10           | ✔     | easy setup       |
-| 8    | PloudOS![Down](https://img.shields.io/badge/Down-red)        | https://ploudos.com         | 1GB   | ~94%   | unlimited  | ~20          | ✔     | clean panel      |
+| 8    | PloudOS ![Down](https://img.shields.io/badge/Down-red)        | https://ploudos.com         | 1GB   | ~94%   | unlimited  | ~20          | ✔     | clean panel      |
 | 9    | HolyHosting     | https://holy.gg             | 2GB   | ~92%   | unlimited  | ~20          | ✔     | decent           |
 | 10   | CraftyHosts     | https://craftyhosts.com     | 1GB   | ~89%   | unlimited  | ~20          | ✔     | basic panel      |
 | 11   | PlayHosting     | https://playhosting.net     | 1GB   | ~86%   | unlimited  | ~20          | ✔     | simple           |
