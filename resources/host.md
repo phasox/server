@@ -13,7 +13,7 @@
 | ---- | --------------- | --------------------------- | ----- | ------ | ---------- | ------------ | ----- | ---------------- |
 | 🥇 1 | FalixNodes      | https://falixnodes.net      | 2–4GB | ~96%   | unlimited  | ~20          | ✔     | best free RAM    |
 | 🥈 2 | MineCloud ![Down](https://img.shields.io/badge/Down-red)      | https://minecloud.host      | 2GB   | ~94%   | unlimited  | ~20          | ✔     | stable cloud     |
-| 🥉 3 | CubeNodes Free  | https://cubenodes.net       | 2GB   | ~93%   | unlimited  | ~20          | ✔     | strong free tier |
+| 🥉 3 | CubeNodes Free ![Down](https://img.shields.io/badge/Down-red)  | https://cubenodes.net       | 2GB   | ~93%   | unlimited  | ~20          | ✔     | strong free tier |
 | 4    | Aternos         | https://aternos.org         | 1–2GB | ~95%   | unlimited  | ~20          | ✔     | most popular     |
 | 5    | Minefort        | https://minefort.com        | 1GB   | ~93%   | unlimited  | ~20          | ✔     | stable           |
 | 6    | EnderNodes      | https://endernodes.com      | 2GB   | ~93%   | unlimited  | ~20          | ✔     | low ads          |
