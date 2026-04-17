@@ -2,6 +2,7 @@
 
 ![Ranking](https://img.shields.io/badge/Ranking-BEST%20to%20WORST-red)
 ![Free](https://img.shields.io/badge/Price-Free-success)
+![Paid](https://img.shields.io/badge/Price-Paid-success)
 ![Hosts](https://img.shields.io/badge/Hosts-40+-blue)
 ![Down](https://img.shields.io/badge/Down-red)
 
@@ -19,7 +20,7 @@
 | 6    | EnderNodes ![Down](https://img.shields.io/badge/Down-red)     | https://endernodes.com      | 2GB   | ~93%   | unlimited  | ~20          | ✔     | low ads          |
 | 7    | Minehut         | https://minehut.com         | 1GB   | ~94%   | unlimited  | 10           | ✔     | easy setup       |
 | 8    | PloudOS ![Down](https://img.shields.io/badge/Down-red)        | https://ploudos.com         | 1GB   | ~94%   | unlimited  | ~20          | ✔     | clean panel      |
-| 9    | HolyHosting     | https://holy.gg             | 2GB   | ~92%   | unlimited  | ~20          | ✔     | decent           |
+| 9    | HolyHosting ![Paid](https://img.shields.io/badge/Price-Paid-success)    | https://holy.gg             | 2GB   | ~92%   | unlimited  | ~20          | ✔     | decent           |
 | 10   | CraftyHosts     | https://craftyhosts.com     | 1GB   | ~89%   | unlimited  | ~20          | ✔     | basic panel      |
 | 11   | PlayHosting     | https://playhosting.net     | 1GB   | ~86%   | unlimited  | ~20          | ✔     | simple           |
 | 12   | MineKeep        | https://minekeep.gg         | 1GB   | ~90%   | unlimited  | 10           | ✔     | basic            |
