@@ -59,26 +59,26 @@
 | 38   | PixelHost Free ![Down](https://img.shields.io/badge/Down-red) | https://pixelhost.net       | 1GB   | ~90%   | limited    | ~20          | ✔     | basic            |
 | 39   | CraftHost Free ![Down](https://img.shields.io/badge/Down-red) | https://crafthost.net       | 1GB   | ~89%   | limited    | ~20          | ✔     | average          |
 | 40   | BlockHost  ![Error](https://img.shields.io/badge/Error-red)     | https://blockhost.net       | 1GB   | ~90%   | limited    | ~20          | ✔     | simple           |
-| 41   | NeoNodes Free                                                              | https://neonodes.host    | 2GB   | ~91%   | unlimited | ~20          | ✔     | solid free tier   |
-| 42   | FrostMC ![Down](https://img.shields.io/badge/Down-red)                     | https://frostmc.net         | 1GB   | ~89%   | limited   | ~15          | ✔     | unstable          |
-| 43   | LiteNodeMC                                                                 | https://litenodemc.com   | 1–2GB | ~92%   | unlimited | ~20          | ✔     | lightweight       |
-| 44   | CloudCraft Free                                                            | https://cloudcraft.host | 2GB   | ~93%   | unlimited | ~20          | ✔     | good performance  |
+| 41   | NeoNodes Free ![Down](https://img.shields.io/badge/Down-red)| https://neonodes.host    | 2GB   | ~91%   | unlimited | ~20          | ✔     | solid free tier   |
+| 42   | FrostMC ![Down](https://img.shields.io/badge/Down-red)| https://frostmc.net         | 1GB   | ~89%   | limited   | ~15          | ✔     | unstable          |
+| 43   | LiteNodeMC ![Down](https://img.shields.io/badge/Down-red)| https://litenodemc.com   | 1–2GB | ~92%   | unlimited | ~20          | ✔     | lightweight       |
+| 44   | CloudCraft Free ![Down](https://img.shields.io/badge/Down-red)| https://cloudcraft.host | 2GB   | ~93%   | unlimited | ~20          | ✔     | good performance  |
 | 45   | BlockPeak Hosting ![Paid](https://img.shields.io/badge/Price-Paid-success) | https://blockpeak.host   | 2GB   | ~94%   | unlimited | ~20          | ✔     | premium-like      |
-| 46   | MineNest Free                                                              | https://minenest.gg         | 1GB   | ~90%   | unlimited | ~15          | ✔     | simple setup      |
-| 47   | CraftNova                                                                  | https://craftnova.net     | 1–2GB | ~91%   | unlimited | ~20          | ✔     | decent panel      |
-| 48   | SkyNode Free ![Down](https://img.shields.io/badge/Down-red)                | https://skynode.host       | 1GB   | ~88%   | limited   | ~20          | ✔     | lag spikes        |
-| 49   | PixelForge MC                                                              | https://pixelforge.host | 2GB   | ~92%   | unlimited | ~20          | ✔     | stable            |
-| 50   | FreeCube Servers                                                           | https://freecube.host     | 1GB   | ~90%   | limited   | ~20          | ✔     | ad-supported      |
-| 51   | MineStream                                                                 | https://minestream.net   | 1–2GB | ~91%   | unlimited | ~20          | ✔     | smooth start      |
-| 52   | BlockRealm Free                                                            | https://blockrealm.host | 1GB   | ~90%   | limited   | ~20          | ✔     | basic             |
-| 53   | MCCloud Free                                                               | https://mccloud.host       | 2GB   | ~93%   | unlimited | ~20          | ✔     | good uptime       |
-| 54   | CraftSky Nodes ![Down](https://img.shields.io/badge/Down-red)              | https://craftsky.nodes  | 1GB   | ~89%   | limited   | ~15          | ✔     | unstable          |
-| 55   | MinePulse                                                                  | https://minepulse.gg      | 2GB   | ~92%   | unlimited | ~20          | ✔     | solid free plan   |
-| 56   | HostBlock Free                                                             | https://hostblock.net     | 1GB   | ~90%   | limited   | ~20          | ✔     | average           |
-| 57   | FreeVoxelMC                                                                | https://freevoxelmc.com | 1GB   | ~89%   | limited   | ~15          | ✔     | experimental      |
-| 58   | CubeRealm Hosting                                                          | https://cuberealm.host   | 2GB   | ~93%   | unlimited | ~20          | ✔     | reliable          |
-| 59   | BlockWave Free                                                             | https://blockwave.host  | 1–2GB | ~91%   | unlimited | ~20          | ✔     | smooth UI         |
-| 60   | MineAura                                                                   | https://mineaura.net     | 2GB   | ~92%   | unlimited | ~20          | ✔     | good starter host |
+| 46   | MineNest Free ![Down](https://img.shields.io/badge/Down-red)| https://minenest.gg         | 1GB   | ~90%   | unlimited | ~15          | ✔     | simple setup      |
+| 47   | CraftNova ![Down](https://img.shields.io/badge/Down-red)| https://craftnova.net     | 1–2GB | ~91%   | unlimited | ~20          | ✔     | decent panel      |
+| 48   | SkyNode Free ![Down](https://img.shields.io/badge/Down-red) | https://skynode.host       | 1GB   | ~88%   | limited   | ~20          | ✔     | lag spikes        |
+| 49   | PixelForge MC ![Down](https://img.shields.io/badge/Down-red)| https://pixelforge.host | 2GB   | ~92%   | unlimited | ~20          | ✔     | stable            |
+| 50   | FreeCube Servers ![Down](https://img.shields.io/badge/Down-red)| https://freecube.host     | 1GB   | ~90%   | limited   | ~20          | ✔     | ad-supported      |
+| 51   | MineStream ![Down](https://img.shields.io/badge/Down-red)  | https://minestream.net   | 1–2GB | ~91%   | unlimited | ~20          | ✔     | smooth start      |
+| 52   | BlockRealm Free ![Down](https://img.shields.io/badge/Down-red)  | https://blockrealm.host | 1GB   | ~90%   | limited   | ~20          | ✔     | basic             |
+| 53   | MCCloud Free ![Down](https://img.shields.io/badge/Down-red)   | https://mccloud.host       | 2GB   | ~93%   | unlimited | ~20          | ✔     | good uptime       |
+| 54   | CraftSky Nodes ![Down](https://img.shields.io/badge/Down-red)  | https://craftsky.nodes  | 1GB   | ~89%   | limited   | ~15          | ✔     | unstable          |
+| 55   | MinePulse ![Down](https://img.shields.io/badge/Down-red)| https://minepulse.gg      | 2GB   | ~92%   | unlimited | ~20          | ✔     | solid free plan   |
+| 56   | HostBlock Free ![Down](https://img.shields.io/badge/Down-red)| https://hostblock.net     | 1GB   | ~90%   | limited   | ~20          | ✔     | average           |
+| 57   | FreeVoxelMC ![Down](https://img.shields.io/badge/Down-red)| https://freevoxelmc.com | 1GB   | ~89%   | limited   | ~15          | ✔     | experimental      |
+| 58   | CubeRealm Hosting ![Down](https://img.shields.io/badge/Down-red)| https://cuberealm.host   | 2GB   | ~93%   | unlimited | ~20          | ✔     | reliable          |
+| 59   | BlockWave Free ![Down](https://img.shields.io/badge/Down-red)  | https://blockwave.host  | 1–2GB | ~91%   | unlimited | ~20          | ✔     | smooth UI         |
+| 60   | MineAura ![Down](https://img.shields.io/badge/Down-red)| https://mineaura.net     | 2GB   | ~92%   | unlimited | ~20          | ✔     | good starter host |
 
 ---
 
